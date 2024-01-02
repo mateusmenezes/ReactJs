@@ -1,0 +1,3 @@
+react vai ser feita através do node e npm, utilizando o npx
+
+create-react-app é um script executado pelo npx
